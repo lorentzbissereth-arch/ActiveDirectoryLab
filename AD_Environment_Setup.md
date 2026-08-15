@@ -18,7 +18,7 @@ Here, I added three other organizational units inside the USA OU: **Computers**,
 
 Here, I created a user inside the **Users** organizational unit, within the USA OU.
 
-![User creation](media/image5.png)
+![User creation](https://github.com/lorentzbissereth-arch/ActiveDirectoryLab/blob/7cf835b5071a65dce9e76fc6fbfe9f3fa680a98f/image5.png)
 
 ## Security Groups
 
