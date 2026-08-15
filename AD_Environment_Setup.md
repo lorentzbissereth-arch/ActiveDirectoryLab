@@ -24,7 +24,7 @@ Here, I created a user inside the **Users** organizational unit, within the USA 
 
 Here, I created a security group named **IT** inside the USA OU.
 
-![IT security group](media/image2.png)
+![IT security group](https://github.com/lorentzbissereth-arch/ActiveDirectoryLab/blob/fd4a68c75f67372af07e5b0880685fcee51a8be3/image2.png)
 
 Here, you can see all the groups I created inside the Users OU — one of them being a user, and the three others being distribution groups and security groups.
 
