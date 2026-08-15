@@ -8,7 +8,7 @@ This is the Active Directory environment I set up in a virtual machine inside my
 
 Here, I created three new organizational units: **USA**, **Europe**, and **Asia**. I did this by right-clicking `lolo.local`, then **New**, then **Organizational Unit**.
 
-![Creating organizational units](media/image1.png)
+![Creating organizational units](https://github.com/lorentzbissereth-arch/ActiveDirectoryLab/blob/e9796d1660c8c7897bcb5cad6a9b88ee5ea14a10/image1.png)
 
 Here, I added three other organizational units inside the USA OU: **Computers**, **Users**, and **Servers**.
 
