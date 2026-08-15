@@ -2,7 +2,7 @@
 
 This is the Active Directory environment I set up in a virtual machine inside my home lab.
 
-![AD environment overview](media/image3.png)
+![AD environment overview]([media/image3.png](https://github.com/lorentzbissereth-arch/ActiveDirectoryLab/blob/73c6b6e1988d6894c27b4d301417b38a293f5c3f/image3.png))
 
 ## Organizational Units
 
