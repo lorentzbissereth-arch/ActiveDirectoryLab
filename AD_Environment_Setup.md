@@ -12,7 +12,7 @@ Here, I created three new organizational units: **USA**, **Europe**, and **Asia*
 
 Here, I added three other organizational units inside the USA OU: **Computers**, **Users**, and **Servers**.
 
-![Sub-OUs inside USA](media/image6.png)
+![Sub-OUs inside USA](https://github.com/lorentzbissereth-arch/ActiveDirectoryLab/blob/6646ed0fa035b426597327821734230c8873e5ff/image6.png)
 
 ## User Creation
 
