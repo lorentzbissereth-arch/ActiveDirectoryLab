@@ -28,7 +28,7 @@ Here, I created a security group named **IT** inside the USA OU.
 
 Here, you can see all the groups I created inside the Users OU — one of them being a user, and the three others being distribution groups and security groups.
 
-![Groups overview](media/image4.png)
+![Groups overview](https://github.com/lorentzbissereth-arch/ActiveDirectoryLab/blob/6f4ec99360fe6f87db8d2ec8501029357891365b/image4.png)
 
 ## Summary
 
